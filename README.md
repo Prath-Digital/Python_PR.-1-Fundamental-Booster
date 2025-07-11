@@ -57,3 +57,8 @@ This project is for educational purposes only. No formal license is applied, but
 
 ## Acknowledgments
 Thanks to the Python community for the amazing resources and support!
+
+<blockquote>
+    This project is a part of repositry of
+    <a href="https://github.com/Prath-code/Python">Python</a>
+</blockquote>
